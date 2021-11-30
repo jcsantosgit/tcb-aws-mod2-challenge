@@ -1,31 +1,31 @@
-Nome;Email;Senha;Usuario
-Geraldo Benedito Rocha;geraldobeneditorocha@jsagromecanica.com.br;KeKYWiJ2Me;geraldobeneditorocha
-Sueli Eloá Rezende;ssuelieloarezende@valeparaibano.com.br;EPmXJ694uD;ssuelieloarezende
-Raimundo Fábio Tomás Novaes;rraimundofabiotomasnovaes@cenia.com.br;0xmq74551K;rraimundofabiotomasnovaes
-Daiane Daniela Allana Nunes;daianedanielaallananunes88@uniara.com.br;0pIeS3T2xb;daianedanielaallananunes88
-Sophia Francisca de Paula;sophiafranciscadepaula@netpont.com.br;xaJKWntf3x;sophiafranciscadepaula
-Isis Manuela Malu Barros;iisismanuelamalubarros@fredericodiniz.com;FIhFQ8FjHq;iisismanuelamalubarros
-Mateus Joaquim Sérgio Carvalho;mateusjoaquimsergiocarvalho@caocarinho.com.br;89aFfOnx5Z;mateusjoaquimsergiocarvalho
-Adriana Elaine Ramos;adrianaelaineramos@pontofinalcafe.com.br;qKAo5zEoFI;adrianaelaineramos
-Tiago Manoel Pereira;tiagomanoelpereira@yahoo.ca;IdZuJ1EAUD;tiagomanoelpereira
-Allana Luna Antonella Lopes;antonellalopes@mantegassi.com;C2AgAQ0gqN;antonellalopes
-Sara Rayssa Rezende;sarezende@superativacoop.com.br;8RdHK4npLS;sarezende
-Nelson Jorge de Paula;nelsonjorgedepaula96@gastrolight.com.br;5fkmOs6G0N;nelsonjorgedepaula96
-Anderson Cauã Lopes;andersoncaualopes@editorazap.com.br;bqI9ACiypK;andersoncaualopes
-Gabriela Vitória Rosângela Corte Real;gabrielavitoriarosangelacortereal@hotmailo.com;wrPTUsei5o;gabrielavitoriarosangelacortereal
-Alexandre Cauã Augusto Gomes;alexandrecauaaugustogomes@comdados.com;izdxhyXGEO;alexandrecauaaugustogomes
-Otávio Iago Barros;otavioiagobarros@editorazap.com.br;MX98SwgHwF;otavioiagobarros
-Elza Rafaela Galvão;eelzarafaelagalvao@grupogil.com.br;81ySKNB84L;eelzarafaelagalvao
-Amanda Agatha Giovanna Almada;amandaagathagiovannaalmada85@zipmail.com;QZQkpQNtPs;amandaagathagiovannaalmada85
-Aurora Giovana Sarah da Costa;auroragiovanasarahdacosta@michaelpage.com.br;bwb6LFdWhS;auroragiovanasarahdacosta
-Beatriz Mariane Almada;beatrizmarianealmada80@ativacofres.com.br;eBe2roPfX8;beatrizmarianealmada80
-Vitória Joana Caldeira;vitoriajoanacaldeira@boiago.com.br;wXSpwlGhyw;vitoriajoanacaldeira
-Isabelly Yasmin Drumond;isabellyyasmindrumond@operaconstrutora.com.br;LzNBigFUrN;isabellyyasmindrumond
-Tiago Yuri Moreira;ttiagoyurimoreira@maggitoyota.com.br;KwRajl7bUi;ttiagoyurimoreira
-Julia Larissa Nogueira;julialarissanogueira@marcofaria.com;DM3beSJKpO;julialarissanogueira
-Nair Sophie Emily Alves;nairsophieemilyalves@dc4.com.br;E4518KzwJ1;nairsophieemilyalves
-Marina Alice Helena da Luz;marinaalicehelenadaluz@gsw.com.br;OayzijAkp0;marinaalicehelenadaluz
-Valentina Sophia Bernardes;valentinasophiabernardes@jpmanager.com.br;glEURa37gJ;valentinasophiabernardes
-Renato Filipe da Mata;renatofilipedamata@vilarreal.com.br;Zw4JUQfbEE;renatofilipedamata
-Juan Samuel Sebastião dos Santos;juansamuelsebastiaodossantos@geopx.com.br;q3PATwcDZg;juansamuelsebastiaodossantos
-Hadassa Mariana Cecília da Mota;anaceciliadamota@igoralcantara.com.br;0ZGnJiwX9l;anaceciliadamota
+Name;Email;Password;User;Group;Policy
+Geraldo Benedito Rocha;geraldobeneditorocha@jsagromecanica.com.br;KeKYWiJ2Me;geraldobeneditorocha;CloudAdmins;EnforceMFAPolicy
+Sueli Eloá Rezende;ssuelieloarezende@valeparaibano.com.br;EPmXJ694uD;ssuelieloarezende;CloudAdmins;EnforceMFAPolicy
+Raimundo Fábio Tomás Novaes;rraimundofabiotomasnovaes@cenia.com.br;0xmq74551K;rraimundofabiotomasnovaes;CloudAdmins;EnforceMFAPolicy
+Daiane Daniela Allana Nunes;daianedanielaallananunes88@uniara.com.br;0pIeS3T2xb;daianedanielaallananunes88;CloudAdmins;EnforceMFAPolicy
+Sophia Francisca de Paula;sophiafranciscadepaula@netpont.com.br;xaJKWntf3x;sophiafranciscadepaula;CloudAdmins;EnforceMFAPolicy
+Isis Manuela Malu Barros;iisismanuelamalubarros@fredericodiniz.com;FIhFQ8FjHq;iisismanuelamalubarros;CloudAdmins;EnforceMFAPolicy
+Mateus Joaquim Sérgio Carvalho;mateusjoaquimsergiocarvalho@caocarinho.com.br;89aFfOnx5Z;mateusjoaquimsergiocarvalho;CloudAdmins;EnforceMFAPolicy
+Adriana Elaine Ramos;adrianaelaineramos@pontofinalcafe.com.br;qKAo5zEoFI;adrianaelaineramos;CloudAdmins;EnforceMFAPolicy
+Tiago Manoel Pereira;tiagomanoelpereira@yahoo.ca;IdZuJ1EAUD;tiagomanoelpereira;CloudAdmins;EnforceMFAPolicy
+Allana Luna Antonella Lopes;antonellalopes@mantegassi.com;C2AgAQ0gqN;antonellalopes;CloudAdmins;EnforceMFAPolicy
+Sara Rayssa Rezende;sarezende@superativacoop.com.br;8RdHK4npLS;sarezende;CloudAdmins;EnforceMFAPolicy
+Nelson Jorge de Paula;nelsonjorgedepaula96@gastrolight.com.br;5fkmOs6G0N;nelsonjorgedepaula96;CloudDBAs;EnforceMFAPolicy
+Anderson Cauã Lopes;andersoncaualopes@editorazap.com.br;bqI9ACiypK;andersoncaualopes;CloudDBAs;EnforceMFAPolicy
+Gabriela Vitória Rosângela Corte Real;gabrielavitoriarosangelacortereal@hotmailo.com;wrPTUsei5o;gabrielavitoriarosangelacortereal;CloudDBAs;EnforceMFAPolicy
+Alexandre Cauã Augusto Gomes;alexandrecauaaugustogomes@comdados.com;izdxhyXGEO;alexandrecauaaugustogomes;CloudDBAs;EnforceMFAPolicy
+Otávio Iago Barros;otavioiagobarros@editorazap.com.br;MX98SwgHwF;otavioiagobarros;CloudDBAs;EnforceMFAPolicy
+Elza Rafaela Galvão;eelzarafaelagalvao@grupogil.com.br;81ySKNB84L;eelzarafaelagalvao;CloudDBAs;EnforceMFAPolicy
+Amanda Agatha Giovanna Almada;amandaagathagiovannaalmada85@zipmail.com;QZQkpQNtPs;amandaagathagiovannaalmada85;CloudReadOnly;EnforceMFAPolicy
+Aurora Giovana Sarah da Costa;auroragiovanasarahdacosta@michaelpage.com.br;bwb6LFdWhS;auroragiovanasarahdacosta;CloudReadOnly;EnforceMFAPolicy
+Beatriz Mariane Almada;beatrizmarianealmada80@ativacofres.com.br;eBe2roPfX8;beatrizmarianealmada80;CloudReadOnly;EnforceMFAPolicy
+Vitória Joana Caldeira;vitoriajoanacaldeira@boiago.com.br;wXSpwlGhyw;vitoriajoanacaldeira;CloudReadOnly;EnforceMFAPolicy
+Isabelly Yasmin Drumond;isabellyyasmindrumond@operaconstrutora.com.br;LzNBigFUrN;isabellyyasmindrumond;CloudReadOnly;EnforceMFAPolicy
+Tiago Yuri Moreira;ttiagoyurimoreira@maggitoyota.com.br;KwRajl7bUi;ttiagoyurimoreira;CloudReadOnly;EnforceMFAPolicy
+Julia Larissa Nogueira;julialarissanogueira@marcofaria.com;DM3beSJKpO;julialarissanogueira;CloudReadOnly;EnforceMFAPolicy
+Nair Sophie Emily Alves;nairsophieemilyalves@dc4.com.br;E4518KzwJ1;nairsophieemilyalves;CloudReadOnly;EnforceMFAPolicy
+Marina Alice Helena da Luz;marinaalicehelenadaluz@gsw.com.br;OayzijAkp0;marinaalicehelenadaluz;CloudReadOnly;EnforceMFAPolicy
+Valentina Sophia Bernardes;valentinasophiabernardes@jpmanager.com.br;glEURa37gJ;valentinasophiabernardes;CloudReadOnly;EnforceMFAPolicy
+Renato Filipe da Mata;renatofilipedamata@vilarreal.com.br;Zw4JUQfbEE;renatofilipedamata;CloudReadOnly;EnforceMFAPolicy
+Juan Samuel Sebastião dos Santos;juansamuelsebastiaodossantos@geopx.com.br;q3PATwcDZg;juansamuelsebastiaodossantos;CloudReadOnly;EnforceMFAPolicy
+Hadassa Mariana Cecília da Mota;anaceciliadamota@igoralcantara.com.br;0ZGnJiwX9l;anaceciliadamota;CloudReadOnly;EnforceMFAPolicy
