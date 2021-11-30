@@ -1,2 +1,3 @@
-# tcb-aws-mod2-challenge
-Dasafio do módulo 2 do curso da The Cloud Bootcamp
+# The Cloud Bootcamp Challenge
+The project challenge made during the module 2 of [The Cloud Bootcamp](https://thecloudbootcamp.com/ "The Cloud Bootcamp") course.
+The challenge is to automate the creation of multiple users within AWS and associate them with their respective groups and policies and do all of that using AWS CLI.
