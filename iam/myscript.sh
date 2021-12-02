@@ -2,5 +2,7 @@
 IFS=';'
 OLDIFS=$IFS
 while read -r name email password user group policy; do
-   echo $group
+    if [ "$user" != "User" ]; then
+       echo "$user | $password | $group | $policy"
+    fi
 done < "$1"
