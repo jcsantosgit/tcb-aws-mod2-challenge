@@ -23,7 +23,7 @@ while read -r name email password user group policy; do
        echo "*******************************************************************************************"
        echo "*******************************************************************************************"
 
-       echo "Processing info acount user: $name"
+       echo "User account info process: $name"
        echo "Process $COUNT of $LINHAS"
 
        aws iam create-user --user-name $user
@@ -34,4 +34,6 @@ while read -r name email password user group policy; do
     fi
 done < "$1"
 
+echo "---------------------------------------"
 echo "The script was executed successfully :)"
+echo "---------------------------------------"
